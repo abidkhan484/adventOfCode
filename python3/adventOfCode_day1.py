@@ -1,6 +1,11 @@
 #! /usr/bin/python3
 
 
+"""
+Advent Of Code: 2019
+Problem statement: https://adventofcode.com/2019/day/1
+"""
+
 file_ = "aoc_d1_input.txt"
 
 def requirement(i, res=0):
